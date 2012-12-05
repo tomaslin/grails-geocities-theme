@@ -1,1 +1,1 @@
-Makes any grails platform site more awesome by making it look like 1998 geocities theme.
+Makes any GRAILS APP that uses Platform UI more awesome.
