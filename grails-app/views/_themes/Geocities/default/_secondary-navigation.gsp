@@ -1,0 +1,2 @@
+<ui:secondaryNavigation/>
+<geocities:img/>
