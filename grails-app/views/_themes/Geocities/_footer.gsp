@@ -1,5 +1,11 @@
 <geocities:img/>
 <footer>
+	<hr>
+	
+	<a href="http://www.angelfire.com/la/boxer/rockysgbook.html"><g:img dir="images" plugin="geocities-theme" file="guestbook.gif"/></a>
+
+	<hr>
+	
 	<center>
 	<p>&copy; <p:year/> <p:siteLink/></p>
 	<g:img dir="images" plugin="geocities-theme" file="counter.gif"/>
